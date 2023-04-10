@@ -65,4 +65,5 @@
 ## 參考文獻
 * [韓國自由行＆首爾自由行攻略](https://mimihan.tw/seoul-travel/)
 * [釜山自由行攻略](https://mimihan.tw/busan-travel/)
+* [釜山自由行攻略](https://bobby.tw/blog/post/232116613-【釜山景點地圖】韓國釜山自由行必去景點！)
 * [雄獅行程](https://travel.liontravel.com/detail?NormGroupID=3d06d49d-db1b-4ad9-9d5a-c893d614bfdc&GroupID=23JK425ITD-ZP)
