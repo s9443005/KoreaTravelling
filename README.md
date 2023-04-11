@@ -8,6 +8,8 @@
 ### [Kakaomap APP](https://apps.apple.com/tw/app/kakaomap-korea-no-1-map/id304608425)，比GOOGLE準確。
 ### 地鐵
 * Tmoney卡/悠遊卡](https://www.kkday.com/zh-tw/product/18161-t-money-public-transit-card-pick-up-at-taiwan-taoyuan-international-airport-south-korea?cid=2810)，KKDAY買無充值。
+* [首爾地鐵地圖](http://img.hanyouwang.com/news/20170405/1491351137778843.jpg)
+* [首爾地鐵地圖](https://drive.google.com/drive/folders/1Hk-OPbbJYE8fhNw9JBibojnuIUu7jrLU)
 ## 首爾景點
 1. 弘大＆梨大商圈：是首爾年輕人最愛的流行商圈
 2. 明洞商圈：則是觀光一級戰區，最貴但東西也多
