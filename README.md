@@ -83,6 +83,8 @@
 *地址︰濟州島西歸浦市安德面上倉里271 
 
 ## 慶典
+### 大川海水浴場
+* [泥漿節](https://big5chinese.visitkorea.or.kr/cht/ATT/3_2_view.jsp?cid=332760)
 ### aa
 * [yjwj](https://blog.kkday.com/wp-content/uploads/%E9%9F%93%E5%9C%8B%E6%85%B6%E5%85%B8.jpg)
 ### 統營閑山大捷慶典
