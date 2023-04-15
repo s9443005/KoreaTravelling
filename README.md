@@ -6,6 +6,8 @@
 ### 匯
 * 我們在台灣$10,000台幣換到435,000韓元(2022.8匯率)；到韓國再換匯率會更好
 ## 交通
+### 韓國高鐵
+* [維基](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E9%AB%98%E9%80%9F%E9%90%B5%E9%81%93)
 ### [Kakaomap APP](https://apps.apple.com/tw/app/kakaomap-korea-no-1-map/id304608425)，比GOOGLE準確。
 ### 地鐵
 * Tmoney卡/悠遊卡](https://www.kkday.com/zh-tw/product/18161-t-money-public-transit-card-pick-up-at-taiwan-taoyuan-international-airport-south-korea?cid=2810)，KKDAY買無充值。
