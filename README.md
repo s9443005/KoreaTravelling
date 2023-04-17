@@ -5,6 +5,11 @@
 * 因應Covid-19疫情，韓國目前已經開放持免簽入境，但須事先申請[K-ETA](https://www.k-eta.go.kr/portal/apply/index.do)(有點類似先報備要入境)，網站上填一填資料即可，申請後期限兩年，需於至少72小時前申請，核准後就不用另外辦理觀光簽證。
 ### 匯
 * 我們在台灣$10,000台幣換到435,000韓元(2022.8匯率)；到韓國再換匯率會更好
+
+### T-money卡
+* 帶有“One Card All Pass”標識，全國通用。
+* Tmoney卡/悠遊卡](https://www.kkday.com/zh-tw/product/18161-t-money-public-transit-card-pick-up-at-taiwan-taoyuan-international-airport-south-korea?cid=2810)，KKDAY買無充值。
+
 ## 交通
 ### 仁川機場
 * 仁川市區可以小玩
@@ -14,10 +19,12 @@
 ### 韓國高鐵
 * [維基](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E9%AB%98%E9%80%9F%E9%90%B5%E9%81%93)
 * 網友：「在台灣早就訂好了車票，十日內可以任選搭乘兩次的車票，做了各種功課後覺得這種票最划算!」。該網友「我們是第一天從仁川直奔釜山，第四天再從釜山到首爾」。[前往](https://jumptiger22.pixnet.net/blog/post/219766257-%E3%80%90%E9%A6%96%E7%88%BE%E9%87%9C%E5%B1%B1%E3%80%91ktx%E5%B1%8D%E9%80%9F%E5%88%97%E8%BB%8A)。
+* 網友 KTX-131次直達 busan。
 * 釜山--부산--
 ### [Kakaomap APP](https://apps.apple.com/tw/app/kakaomap-korea-no-1-map/id304608425)，比GOOGLE準確。
 ### 地鐵
-* Tmoney卡/悠遊卡](https://www.kkday.com/zh-tw/product/18161-t-money-public-transit-card-pick-up-at-taiwan-taoyuan-international-airport-south-korea?cid=2810)，KKDAY買無充值。
+
+* 坐地鐵遊爾首，T-Money卡，[前往](https://www.hanchao.com/contents/traffic_info_detail.html?id=413)。
 * [首爾地鐵地圖](http://img.hanyouwang.com/news/20170405/1491351137778843.jpg)
 * [首爾地鐵地圖](https://drive.google.com/drive/folders/1Hk-OPbbJYE8fhNw9JBibojnuIUu7jrLU)
 ## 首爾景點
@@ -104,6 +111,9 @@
 * [參考](https://www.facebook.com/big5chinese.visitkorea/posts/2933303090044046/)
 
 ## 網路卡
+
+## 參考韓語
+* 參考韓語：충전해주세요（請幫我充值）
 
 ## 參考文獻
 * [韓國自由行＆首爾自由行攻略](https://mimihan.tw/seoul-travel/)
