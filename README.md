@@ -14,6 +14,7 @@
 ### 韓國高鐵
 * [維基](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E9%AB%98%E9%80%9F%E9%90%B5%E9%81%93)
 * 網友：「在台灣早就訂好了車票，十日內可以任選搭乘兩次的車票，做了各種功課後覺得這種票最划算!」。該網友「我們是第一天從仁川直奔釜山，第四天再從釜山到首爾」。[前往](https://jumptiger22.pixnet.net/blog/post/219766257-%E3%80%90%E9%A6%96%E7%88%BE%E9%87%9C%E5%B1%B1%E3%80%91ktx%E5%B1%8D%E9%80%9F%E5%88%97%E8%BB%8A)。
+* 釜山--부산--
 ### [Kakaomap APP](https://apps.apple.com/tw/app/kakaomap-korea-no-1-map/id304608425)，比GOOGLE準確。
 ### 地鐵
 * Tmoney卡/悠遊卡](https://www.kkday.com/zh-tw/product/18161-t-money-public-transit-card-pick-up-at-taiwan-taoyuan-international-airport-south-korea?cid=2810)，KKDAY買無充值。
