@@ -9,6 +9,7 @@
 ### T-money卡
 * 帶有“One Card All Pass”標識，全國通用。
 * Tmoney卡/悠遊卡](https://www.kkday.com/zh-tw/product/18161-t-money-public-transit-card-pick-up-at-taiwan-taoyuan-international-airport-south-korea?cid=2810)，KKDAY買無充值。
+* 1日、2日、3日卡:SEOUL CITYPASS。分為1日卡、2日卡、3日卡3種類型， 一天可自由乘坐地鐵和市區巴士的次數多達20次。這種T-money卡僅限於在首爾首都圈內使用， 乘坐首爾城市觀光遊巴士時，利用這種T-money卡可在市中心、古宮路線上的任一地點免費乘坐。價格：1日券15,000韓元，2日券25,000韓元，3日券35,000韓元。購買地點：全家、迷你島、首爾市內部分旅遊諮詢處、韓國智能卡公司
 
 ## 交通
 ### 仁川機場
