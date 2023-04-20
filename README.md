@@ -101,12 +101,12 @@
 * [高城薰衣草節](https://www.lavenderfarm.co.kr/src/main/indexpage.php)、江原道高城郡杆城邑花莖村街175、交通︰首爾地鐵2號綫至「江邊站」，於東首爾客運站轉乘往「桿城客運站」的巴士，到達後再轉乘的士前往「HANI薰衣草農場」
 ### 6月上旬~8月上旬︰繡球花
 *地址︰濟州島西歸浦市安德面上倉里271 
+* [yjwj](https://blog.kkday.com/wp-content/uploads/%E9%9F%93%E5%9C%8B%E6%85%B6%E5%85%B8.jpg)
 
 ## 慶典
 ### 大川海水浴場
 * [泥漿節](https://big5chinese.visitkorea.or.kr/cht/ATT/3_2_view.jsp?cid=332760)
-### aa
-* [yjwj](https://blog.kkday.com/wp-content/uploads/%E9%9F%93%E5%9C%8B%E6%85%B6%E5%85%B8.jpg)
+
 ### 統營閑山大捷慶典
 * 關鍵字：李舜臣、釜山
 * [2019新聞](https://big5chinese.visitkorea.or.kr/cht/TRI/5_4_view.jsp?gotoPage=2&cid=2614450)
@@ -115,6 +115,10 @@
 * [參考](https://www.facebook.com/big5chinese.visitkorea/posts/2933303090044046/)
 
 ## 網路卡
+
+
+## 吃
+* 機張吃帝王蟹 及海雲台的味贊王烤肉
 
 ## 參考韓語
 * 參考韓語：충전해주세요（請幫我充值）
