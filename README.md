@@ -2,7 +2,7 @@
 收集者：JOSEPH CW SHIH
 7.16韓亞航空桃園往首爾
 ## 簽證
-* 因應Covid-19疫情，韓國目前已經開放持免簽入境，但須事先申請[K-ETA](https://www.k-eta.go.kr/portal/apply/index.do)(有點類似先報備要入境)，網站上填一填資料即可，申請後期限兩年，需於至少72小時前申請，核准後就不用另外辦理觀光簽證。
+* 出發前72小時填 韓國QCode https://cov19ent.kdca.go.kr/cpassportal/biz/beffatstmnt/step2.do。
 ### 匯
 * 我們在台灣$10,000台幣換到435,000韓元(2022.8匯率)；到韓國再換匯率會更好
 
