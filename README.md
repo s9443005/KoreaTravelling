@@ -128,6 +128,7 @@
 
 ### 統營閑山大捷慶典
 * 關鍵字：李舜臣、釜山
+* [節目表](http://www.hansanf.org/) 8.3-8.11，要翻譯
 * [2019新聞](https://big5chinese.visitkorea.or.kr/cht/TRI/5_4_view.jsp?gotoPage=2&cid=2614450)
 * [參考](https://www.creatrip.com/blog/5295)
 * [參考](https://big5chinese.visitkorea.or.kr/cht/ATT/3_4_view.jsp?cid=696167)
